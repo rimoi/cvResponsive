@@ -1,5 +1,5 @@
 # Création d'un Curriculum Vitae Responsive
 
-Réalisation : Encours
+Réalisation : Fini (y)
 
 Technologie Utilisée : HTML5, CSS3.
