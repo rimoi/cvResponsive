@@ -362,3 +362,29 @@ section .heading h2
     color: firebrick;
     font-style: italic;
 }
+
+
+/* Footer */
+
+footer
+{
+   background: #333;
+   padding: 20px 0 40px;
+}
+footer .glyphicon
+{
+    font-size: 25px;
+    margin: 20px;
+    color: red;
+    height: 30px;
+}
+footer .glyphicon:hover
+{
+    font-size: 40px;
+    
+}
+footer h5
+{
+   color: white;
+    font-weight: normal;
+}
