@@ -100,7 +100,12 @@ section .heading h2
 }
 #about .heading h3
 {
-    color: black;
+    color: firebrick;
+}
+#about .heading h5
+{
+    color: white;
+    font-weight: normal;
 }
 .button1
 {
